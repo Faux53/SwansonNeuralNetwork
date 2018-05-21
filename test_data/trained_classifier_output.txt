@@ -1,0 +1,17 @@
+Landmarks shape: (68, 2)
+First 4 Landmarks: [[180.  63.]
+ [177.  78.]
+ [174.  93.]
+ [174. 108.]]
+0 (561, 860, 3) (68, 2)
+1 (240, 374, 3) (68, 2)
+2 (275, 412, 3) (68, 2)
+3 (230, 210, 3) (68, 2)
+0 torch.Size([3, 224, 224]) torch.Size([68, 2])
+1 torch.Size([3, 224, 224]) torch.Size([68, 2])
+2 torch.Size([3, 224, 224]) torch.Size([68, 2])
+3 torch.Size([3, 224, 224]) torch.Size([68, 2])
+0 torch.Size([4, 3, 224, 224]) torch.Size([4, 68, 2])
+1 torch.Size([4, 3, 224, 224]) torch.Size([4, 68, 2])
+2 torch.Size([4, 3, 224, 224]) torch.Size([4, 68, 2])
+3 torch.Size([4, 3, 224, 224]) torch.Size([4, 68, 2])
